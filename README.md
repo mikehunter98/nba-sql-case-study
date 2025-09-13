@@ -10,6 +10,7 @@ Case study analyzing whether NBA Player of the Week awards align with MVP voting
 [![SQL Workflow](https://img.shields.io/badge/🛠️%20SQL-Workflow-orange)](sql)
 [![Python Scripts](https://img.shields.io/badge/🐍%20Python-Scripts-green)](python)
 [![Visuals](https://img.shields.io/badge/📊%20Visuals-Charts%20%26%20Plots-purple)](visuals)
+[![Data](https://img.shields.io/badge/📂%20Data-Datasets-lightgrey)](data)
 
 
 
