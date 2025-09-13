@@ -7,6 +7,8 @@ Case study analyzing whether NBA Player of the Week awards align with MVP voting
 # NBA SQL Case Study 🏀
 
 [![View Report](https://img.shields.io/badge/📄%20Case%20Study-Read%20Now-blue)](report/case_study.md)
+[![SQL Workflow](https://img.shields.io/badge/🛠️%20SQL-Workflow-orange)](sql)
+
 
 
 This project analyzes NBA award data (MVP, Player of the Week, etc.) using SQL and Python for data preparation, hosted in BigQuery.
