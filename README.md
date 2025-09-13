@@ -31,6 +31,12 @@ This project analyzes NBA award data (MVP, Player of the Week, etc.) using SQL a
 3. Use Python scripts for merging MVP vote CSVs before upload.
 4. Review results and visualizations in the `visuals/` folder.
 
+---
+
+## Final Report
+The complete write-up of this project is available here:  
+📄 [Case Study Report](report/case_study.md)
+
 
 📖 **Case Study Report**  
 Read the full write-up here: [Case Study Report](report/case_study.md)
