@@ -15,5 +15,22 @@ This project analyzes NBA award data (MVP, Player of the Week, etc.) using SQL a
 - `visuals/` → charts and visualizations
 - `report/` → project documentation
 
+## Repository Structure
+
+- **data/** → Raw and cleaned datasets used in analysis  
+- **python/** → Scripts for data cleaning and merging MVP datasets  
+- **sql/** → [SQL queries](sql/README.md) for data preparation and analysis in BigQuery  
+- **visuals/** → Charts and visualizations  
+- **report/** → Final case study report  
+
+---
+
+## How to Reproduce the Analysis
+1. Upload datasets into BigQuery under the project: `nba-sql-case-study`.
+2. Run SQL scripts in order: [see workflow here](sql/README.md).
+3. Use Python scripts for merging MVP vote CSVs before upload.
+4. Review results and visualizations in the `visuals/` folder.
+
+
 📖 **Case Study Report**  
 Read the full write-up here: [Case Study Report](report/case_study.md)
